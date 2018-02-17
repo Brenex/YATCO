@@ -1,19 +1,19 @@
-<?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE MudletPackage>
-<MudletPackage version=&quot;1.001&quot;>
+<MudletPackage version="1.001">
     <TriggerPackage/>
     <TimerPackage/>
     <AliasPackage/>
     <ActionPackage/>
     <ScriptPackage>
-        <ScriptGroup isActive=&quot;yes&quot; isFolder=&quot;yes&quot;>
-            <name>YATCOconfig</name>
+        <ScriptGroup isActive="yes" isFolder="yes">
+            <name>YATCOCONFIG</name>
             <packageName></packageName>
             <script>demonnic = demonnic or {}
 demonnic.chat = demonnic.chat or {}
 demonnic.chat.config = demonnic.chat.config or {}</script>
             <eventHandlerList/>
-            <Script isActive=&quot;yes&quot; isFolder=&quot;no&quot;>
+            <Script isActive="yes" isFolder="no">
                 <name>Configuration Options</name>
                 <packageName></packageName>
                 <script>--[[
